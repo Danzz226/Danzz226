@@ -20,9 +20,9 @@ Meu objetivo é crescer profissionalmente na área de desenvolvimento Back-End, 
 
 
 # 📊 Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=Danzz226&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Danzz226&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzz226&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Danzz226&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Danzz226&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzz226&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Anotações aleatória de devs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -31,3 +31,4 @@ Meu objetivo é crescer profissionalmente na área de desenvolvimento Back-End, 
 [![](https://visitcount.itsvg.in/api?id=Danzz226&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
