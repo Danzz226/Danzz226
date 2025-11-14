@@ -2,7 +2,7 @@
 <h1 align="center">Eai, tudo bem?</h1><br>
 <h1>Daniel Victor 👾</h1>
 
-Tenho 18 anos e moro em Mogi das Cruzes (SP). Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC), atualmente no início da minha jornada acadêmica, mas já com dois anos de experiência estudando programação por conta própria.
+Tenho 19 anos e moro em Mogi das Cruzes (SP). Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC), atualmente no início da minha jornada acadêmica, mas já com dois anos de experiência estudando programação por conta própria.
 
 Sou uma pessoa proativa, curiosa e apaixonada por tecnologia. Gosto de explorar novas ferramentas, entender como as coisas funcionam por trás dos bastidores e estou sempre buscando me aperfeiçoar com projetos práticos, cursos online e desafios reais.
 
